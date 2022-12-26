@@ -1,2 +1,2 @@
-my mc server
+my mc server's web
 
